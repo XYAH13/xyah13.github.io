@@ -1,9 +1,13 @@
 {
-    "applinks": {
-        "apps" :[],
-        "details":{
-            “5KPD7NDF2W.com.gelios.autooko” :{
-                "paths": ["*"]
-        }
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5KPD7NDF2W.com.gelios.autooko",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
