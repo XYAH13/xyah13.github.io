@@ -1,13 +1,9 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "1182375419.com.gelios.autooko",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps" :[],
+        "details":{
+            “1182375419.com.gelios.autooko” :{
+                "paths": ["*"]
+        }
+    }
 }
