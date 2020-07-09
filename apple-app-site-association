@@ -1,9 +1,9 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [{
-	"appID": "7H3YXG4KA7.com.geliossoft.prometheus",
-	"paths": ["/path-for-redirectionl/*"]   
-   }]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "teamId.com.bundleId.of.your.app",
+            "paths": ["/path-for-redirectionl/*"]
+        }]
+    }
 }
