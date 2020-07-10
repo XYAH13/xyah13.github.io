@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "HF9LN76V25.by.st.Priorbank",
-            "paths": ["/web/Cabinet/LoyaltyProgramms", "/web/Lolik", "/web/Testik", "/proverochka"]
+            "paths": ["/web/Cabinet/LoyaltyProgramms", "/web/Lolik", "/web/Testik", "/proverochka", "/Lolka"]
         }]
     }
 }
